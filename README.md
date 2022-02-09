@@ -7,4 +7,4 @@ Inspired by some tweets and pretty examples
 - Giftmap package with just one function for creating maps suitable for gifting, by Alex Betts https://github.com/lina2497/Giftmap
 - Creating a Streetmap of Springfield, MO, by Connor Rothschild https://connorrothschild.github.io/r/map-springfield/
 
-Post by @ch-bu that inspired the Giftmap library: https://ggplot2tutor.com/streetmaps/streetmaps/
+Post by [@ch-bu](https://github.com/ch-bu) that inspired the Giftmap library: https://ggplot2tutor.com/streetmaps/streetmaps/
